@@ -1,0 +1,5 @@
+<meta>
+	<info author="MrDadosz" version="1.0" description="Matrix Rain Code Effect" />
+	<script src="matrix_c.lua" type="client" cache="false" />
+	<file src="font.ttf" />
+</meta>
